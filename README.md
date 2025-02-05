@@ -1,4 +1,4 @@
-### Consumindo API de fotos de cachorros - Desafio do curso **Vai na Web**.
+### Consumindo API de fotos de cachorros - Desafio do curso **Vai na Web**
 
 ---
 
